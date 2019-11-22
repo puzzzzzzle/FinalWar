@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<players version="1.0" PIN="0b4cc1cb97d9ad1a5d7eaab498a61209">
+  <player id="999id" time="Friday, August 25, 2017">
+    <name>play1</name>
+    <money>0</money>
+    <score>0</score>
+    <level>0</level>
+    <castle>0</castle>
+    <defence>0</defence>
+    <propone>0</propone>
+    <proptwo>0</proptwo>
+    <propthree>0</propthree>
+  </player>
+  <player id="" time="Sunday, March 04, 2018">
+    <name>play1</name>
+    <money>0</money>
+    <score>0</score>
+    <level>0</level>
+    <castle>0</castle>
+    <defence>0</defence>
+    <propone>0</propone>
+    <proptwo>0</proptwo>
+    <propthree>0</propthree>
+  </player>
+  <player id="default" time="Monday, March 05, 2018">
+    <name>default</name>
+    <money>0</money>
+    <score>0</score>
+    <level>0</level>
+    <castle>0</castle>
+    <defence>0</defence>
+    <propone>0</propone>
+    <proptwo>0</proptwo>
+    <propthree>0</propthree>
+  </player>
+</players>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - game@localhost" uuid="647b4975-7bd0-476e-8031-0c0fee105c40">
+    <database-info product="MySQL" version="5.5.28" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.40 ( Revision: 402933ef52cad9aa82624e80acbea46e3a701ce6 )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower"/>
+    <database-model serializer="dbm" rdbms="MYSQL" format-version="2.5">
+      <schema id="1" name="game"/>
+      <table id="2" parent="1" name="player"/>
+      <table id="3" parent="1" name="data"/>
+      <table id="4" parent="1" name="shop"/>
+      <column id="5" parent="2" name="player">
+        <mandatory>1</mandatory>
+        <data-type>varchar(50)</data-type>
+      </column>
+      <column id="6" parent="2" name="password">
+        <mandatory>1</mandatory>
+        <data-type>varchar(20)</data-type>
+      </column>
+      <key id="7" parent="2" name="PRIMARY">
+        <columns>player</columns>
+        <primary>1</primary>
+      </key>
+      <column id="8" parent="3" name="player">
+        <mandatory>1</mandatory>
+        <data-type>varchar(50)</data-type>
+      </column>
+      <column id="9" parent="3" name="score">
+        <mandatory>1</mandatory>
+        <data-type>varchar(100)</data-type>
+      </column>
+      <column id="10" parent="3" name="money">
+        <mandatory>1</mandatory>
+        <data-type>varchar(100)</data-type>
+      </column>
+      <key id="11" parent="3" name="PRIMARY">
+        <columns>player</columns>
+        <primary>1</primary>
+      </key>
+      <column id="12" parent="4" name="player">
+        <mandatory>1</mandatory>
+        <data-type>varchar(50)</data-type>
+      </column>
+      <column id="13" parent="4" name="playerlv">
+        <mandatory>1</mandatory>
+        <data-type>varchar(1)</data-type>
+      </column>
+      <column id="14" parent="4" name="castlelv">
+        <mandatory>1</mandatory>
+        <data-type>varchar(1)</data-type>
+      </column>
+      <column id="15" parent="4" name="defencelv">
+        <mandatory>1</mandatory>
+        <data-type>varchar(1)</data-type>
+      </column>
+      <column id="16" parent="4" name="propone">
+        <mandatory>1</mandatory>
+        <data-type>varchar(4)</data-type>
+      </column>
+      <column id="17" parent="4" name="proptwo">
+        <mandatory>1</mandatory>
+        <data-type>varchar(4)</data-type>
+      </column>
+      <column id="18" parent="4" name="propthree">
+        <mandatory>1</mandatory>
+        <data-type>varchar(24)</data-type>
+      </column>
+      <key id="19" parent="4" name="PRIMARY">
+        <columns>player</columns>
+        <primary>1</primary>
+      </key>
+    </database-model>
+  </data-source>
+</component>

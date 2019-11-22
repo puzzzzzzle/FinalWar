@@ -1,0 +1,48 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Vendor:   NVIDIA
+    VRAM:     6052 MB
+    Driver:   25.20.100.6519
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\课程\课程\TaoStudy\codes\最终战役-项目源码-青菜团队\windows版\finalWar_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\课程\课程\TaoStudy\codes\最终战役-项目源码-青菜团队\windows版\finalWar_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\课程\课程\TaoStudy\codes\最终战役-项目源码-青菜团队\windows版\finalWar_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\课程\课程\TaoStudy\codes\最终战役-项目源码-青菜团队\windows版\finalWar_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\课程\课程\TaoStudy\codes\最终战役-项目源码-青菜团队\windows版\finalWar_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\课程\课程\TaoStudy\codes\最终战役-项目源码-青菜团队\windows版\finalWar_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\课程\课程\TaoStudy\codes\最终战役-项目源码-青菜团队\windows版\finalWar_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\课程\课程\TaoStudy\codes\最终战役-项目源码-青菜团队\windows版\finalWar_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\课程\课程\TaoStudy\codes\最终战役-项目源码-青菜团队\windows版\finalWar_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\课程\课程\TaoStudy\codes\最终战役-项目源码-青菜团队\windows版\finalWar_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\课程\课程\TaoStudy\codes\最终战役-项目源码-青菜团队\windows版\finalWar_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\课程\课程\TaoStudy\codes\最终战役-项目源码-青菜团队\windows版\finalWar_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: E:\课程\课程\TaoStudy\codes\最终战役-项目源码-青菜团队\windows版\finalWar_Data\Managed\EasyAR.Unity.dll (this message is harmless)
+Loading E:\课程\课程\TaoStudy\codes\最终战役-项目源码-青菜团队\windows版\finalWar_Data\Managed\EasyAR.Unity.dll into Unity Child Domain
+Platform assembly: E:\课程\课程\TaoStudy\codes\最终战役-项目源码-青菜团队\windows版\finalWar_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading E:\课程\课程\TaoStudy\codes\最终战役-项目源码-青菜团队\windows版\finalWar_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+- Completed reload, in  0.039 seconds
+Platform assembly: E:\课程\课程\TaoStudy\codes\最终战役-项目源码-青菜团队\windows版\finalWar_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\课程\课程\TaoStudy\codes\最终战役-项目源码-青菜团队\windows版\finalWar_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\课程\课程\TaoStudy\codes\最终战役-项目源码-青菜团队\windows版\finalWar_Data\Managed\System.Xml.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.016900 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 2f14 -> priority: 1 
+  Thread -> id: 2560 -> priority: 1 
+  Thread -> id: 224c -> priority: 1 
+The referenced script on this Behaviour (Game Object 'EventSystem') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.344600 ms
+
+Unloading 96 unused Assets to reduce memory usage. Loaded Objects now: 505.
+Total: 0.275200 ms (FindLiveObjects: 0.042700 ms CreateObjectMapping: 0.013000 ms MarkObjects: 0.145000 ms  DeleteObjects: 0.074000 ms)
+

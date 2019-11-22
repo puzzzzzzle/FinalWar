@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<players version="1.0" PIN="b56abd7af9f4543a2cc479884758360e">
+  <player id="default" time="Saturday, June 22, 2019">
+    <name>default</name>
+    <money>0</money>
+    <score>0</score>
+    <level>0</level>
+    <castle>0</castle>
+    <defence>0</defence>
+    <propone>0</propone>
+    <proptwo>0</proptwo>
+    <propthree>0</propthree>
+  </player>
+</players>
